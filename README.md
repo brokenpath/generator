@@ -7,3 +7,10 @@ More defails will be added later, this trail is meant for just trying out the ve
 
 
 When puppet runs it creates a catalog, for the client to do. A file is turned into a resource
+
+
+Wrap it in python, diff, sftp, rsync
+rsync -avun d1/* d2 
+rsync -avu d1/* d2
+
+scrape artifactory for "extras".
